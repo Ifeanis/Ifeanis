@@ -22,7 +22,7 @@
 -   }
 - }
 
-  print('SUMMARY FOR EVERYONE ELSE', end='.\n')
+ print('SUMMARY FOR EVERYONE ELSE', end='.\n')
 - 
 - 👋 Hi, I’m @Ifeanis
 - 👀 I’m interested in full stack Web3 and Blockchain Engineering
