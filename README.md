@@ -19,7 +19,7 @@
 -         recievable(nospaming.please).mail(i***@gmail.com);
 -         payable(upon.request).transferTo(accountNmber);
 -         commentable(any.one).contribute(GithubRepository);
--  }
+-   }
 - }
 
   print('SUMMARY FOR EVERYONE ELSE', end='.\n')
