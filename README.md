@@ -14,13 +14,13 @@
 - address payable external<internal please> accountNumber;
 -
  function connectable external contact {
--         require (msg.sender = !owner, "Only other well meaning people can call this function.")
+-         require (msg.sender = !owner, "Only other well meaning people can call this function."){
 -         callable(upon.request).call(+2348*********);
 -         recievable(nospaming.please).mail(i***@gmail.com);
 -         payable(upon.request).transferTo(accountNmber);
 -         commentable(any.one).contribute(GithubRepository);
+-  }
 - }
--
 
   print('SUMMARY FOR EVERYONE ELSE', end='.\n')
 - 
